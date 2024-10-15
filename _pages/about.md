@@ -1,49 +1,99 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+ 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+mercyjoy@gmail.com 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Mercykoranteng@student.hcps.org 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+443-528-9XXX 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Abingdon, Maryland 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Mercy Koranteng 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Computer Programmer 
 
-**Markdown generator**
+As a computer engineer and programmer who got their experience from Oracle, I know I will use my abilities to enhance productivity when it comes to creating databases. I have not had a job before, but I am ready to use my skills in order to effectively help the company go into the right direction. 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Examples of my achievements include: 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+-I created a Breakout Ball Game on Green Foot using JavaScript, my freshmen year in the Information Technology Oracle Academy program. It was easy to play understand so anybody could play it. 
+-In the ITOA program I was able to learn how to create different databases and what they are used for. Plus, I learned how to track and maintain information in a database. During this process I also learned SQL and almost got my SQL certification. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+-Before joining the ITOA program I was involved in another program over the summer. This program was for girls who wanted to learn more about coding and engineering. Here I was able to experience and learn what it was like to program and get a motherboard to work. At the end of the program, we got a certificate for how much we improved. 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+As an average professional in the basic background of coding, engineering, managing databases, and Java. I can assure you that I will grow to become a great asset to your company and respectfully submit my application for your review. I would like to request a meeting to further discuss what I can do to meet your future goals/expectations. I am available at your convenience and hope to hear from you soon. 
+
+Thank you for your consideration 
+Sincerely, 
+Mercy Koranteng
+
+
+
+ 
+Mercy Koranteng 
+
+Computer Programmer 
+Computer Engineer 
+Database Developer 
+
+
+    ​​PROFILE​ 
+​​Enthusiastic and creative graphic designer with a passion for translating ideas into visually compelling designs. With experience in both print and digital mediums, I thrive on bringing concepts to life through innovative and impactful designs.​ 
+
+
+​​    CONTACT​ 
+  Phone icon 
+443-528-9388 
+
+  Message icon 
+Mercy_Koranteng 
+
+  Email icon 
+Mercyjoy2026@gmail.com 
+
+  Earth icon 
+linkedIn.com 
+
+
+​​    EXPERIENCE​ 
+  ITOA Program 
+2022-PRESENT 
+Developed Games and websites using Java programming language on code.org, GreenFoot and Alice. Also, learning how to create and manage different databases. Along with finding trends in the database to help make connections within them. Which can help to build a business.  
+
+  Engineering Program for Girls 
+2021
+Used TinkerCad to learn how to engineer a motherboard and get it to work. Along with bits of coding. We would usually work by ourselves, but if we had problems with not getting it to work together to fix them. At the end we got a certificate for our hard work. 
+
+  APG Engineering Program 
+2024 
+Used different objects and items to build things such as cars, and then used TinkerCad to 3D print wheels for the cars so I can move faster. This program had us learning from our trial and error, but we would soon come up with a solution as a team. We also learned about different 3D printers and their effect on society.
+ 
+
+    SKILLS
+-  Database Management 
+-  Game Developing 
+-  Java 
+-  Different Databases Models 
+-  Working on teams 
+​​-  Creative problem solving​ 
+​​-  Communication skills​ 
+
+
+    ​​EDUCATION​  
+  Java Fundamentals 
+2022-2023 
+Havre Grace Highschool, Mr. Hitchcock. 
+
+  Database Foundations 
+2022-2023 
+Havre Grace Highschool, Mr. Scott. 
+
+ 
