@@ -12,7 +12,7 @@ mercyjoy@gmail.com
 
 Mercykoranteng@student.hcps.org 
 
-443-528-9XXX 
+443-528-9388 
 
 Abingdon, Maryland 
 
@@ -63,7 +63,9 @@ Mercyjoy2026@gmail.com
 linkedIn.com 
 
 
-​​    EXPERIENCE​ 
+
+​​    EXPERIENCE​
+
   ITOA Program 
 2022-PRESENT 
 Developed Games and websites using Java programming language on code.org, GreenFoot and Alice. Also, learning how to create and manage different databases. Along with finding trends in the database to help make connections within them. Which can help to build a business.  
@@ -87,7 +89,9 @@ Used different objects and items to build things such as cars, and then used Tin
 ​​-  Communication skills​ 
 
 
-    ​​EDUCATION​  
+
+    ​​EDUCATION​
+    
   Java Fundamentals 
 2022-2023 
 Havre Grace Highschool, Mr. Hitchcock. 
@@ -97,7 +101,9 @@ Havre Grace Highschool, Mr. Hitchcock.
 Havre Grace Highschool, Mr. Scott. 
 
 
+
     PROGRAMMING PROJECTS
+    
   Welcome To Board Game
 https://github.com/mercy2026/Welcome-To-Board
 
