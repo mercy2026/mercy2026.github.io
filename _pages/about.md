@@ -67,15 +67,15 @@ linkedIn.com
 ​​    EXPERIENCE​
 
   ITOA Program 
-2022-PRESENT 
+  2022-PRESENT 
 Developed Games and websites using Java programming language on code.org, GreenFoot and Alice. Also, learning how to create and manage different databases. Along with finding trends in the database to help make connections within them. Which can help to build a business.  
 
   Engineering Program for Girls 
-2021
+  2021
 Used TinkerCad to learn how to engineer a motherboard and get it to work. Along with bits of coding. We would usually work by ourselves, but if we had problems with not getting it to work together to fix them. At the end we got a certificate for our hard work. 
 
   APG Engineering Program 
-2024 
+  2024 
 Used different objects and items to build things such as cars, and then used TinkerCad to 3D print wheels for the cars so I can move faster. This program had us learning from our trial and error, but we would soon come up with a solution as a team. We also learned about different 3D printers and their effect on society.
  
 
@@ -90,8 +90,7 @@ Used different objects and items to build things such as cars, and then used Tin
 
 
 
-    ​​EDUCATION​
-    
+    EDUCATION
   Java Fundamentals 
 2022-2023 
 Havre Grace Highschool, Mr. Hitchcock. 
