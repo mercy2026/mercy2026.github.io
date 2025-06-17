@@ -64,7 +64,7 @@ linkedIn.com
 
 
 
-​​    EXPERIENCE​
+​​   EXPERIENCE​ 
 
   ITOA Program 
   2022-PRESENT 
@@ -90,7 +90,7 @@ Used different objects and items to build things such as cars, and then used Tin
 
 
 
-  ## EDUCATION
+    EDUCATION
   Java Fundamentals 
   2022-2023 
 Havre Grace Highschool, Mr. Hitchcock. 
@@ -102,7 +102,6 @@ Havre Grace Highschool, Mr. Scott.
 
 
     PROGRAMMING PROJECTS
-    
   Welcome To Board Game
 https://github.com/mercy2026/Welcome-To-Board
 
