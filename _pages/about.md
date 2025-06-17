@@ -89,7 +89,6 @@ Used different objects and items to build things such as cars, and then used Tin
 ​​-  Communication skills​ 
 
 
-
     EDUCATION
   Java Fundamentals 
   2022-2023 
@@ -98,7 +97,6 @@ Havre Grace Highschool, Mr. Hitchcock.
   Database Foundations 
   2022-2023 
 Havre Grace Highschool, Mr. Scott. 
-
 
 
     PROGRAMMING PROJECTS
