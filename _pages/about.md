@@ -90,8 +90,7 @@ Used different objects and items to build things such as cars, and then used Tin
 
 
 
-    EDUCATION
-   
+  ## EDUCATION
   Java Fundamentals 
   2022-2023 
 Havre Grace Highschool, Mr. Hitchcock. 
