@@ -21,7 +21,7 @@ repository               : "mercy2026/mercy2026.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/school picture.png"
+  avatar           : "school_picture.png"
   name             : "Mercy Koranteng"
   pronouns         : "she/her"  
   bio              : "I am a student of Havre De Grace Highschool, currently attending the Information Technology Oracle Academy Program there."
